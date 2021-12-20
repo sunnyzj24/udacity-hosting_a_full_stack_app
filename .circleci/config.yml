@@ -9,13 +9,15 @@ jobs:
     build:
         docker:
             - image : "cimg/base:stable"
-              environment:
-                  CHROME_BIN: /usr/bin/google-chrome
         steps:
             - node/install
             - checkout
             - aws-cli/setup
             - eb/setup
+            - browser-tools/install-chrome
+            - run:
+                command: |
+                    google-chrome --version
             - run:
                 name: Frontend Install
                 command: npm run frontend:install

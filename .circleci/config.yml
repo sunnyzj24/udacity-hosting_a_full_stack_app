@@ -56,9 +56,3 @@ workflows:
       - deploy:
         requires:
           -build
-
-
-workflows:
-  say-hello-workflow:
-    jobs:
-      - say-hello

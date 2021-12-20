@@ -1,1 +1,1 @@
-eb deploy udagram-backend-env
+eb deploy Udacity-project4-fullstack

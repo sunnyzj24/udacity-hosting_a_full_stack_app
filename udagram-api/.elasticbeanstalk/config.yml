@@ -1,12 +1,12 @@
 branch-defaults:
   default:
-    environment: udagram-backend-env
+    environment: Udacity-project4-fullstack-env
 environment-defaults:
-  udagram-backend-env:
+  Udacity-project4-fullstack-env:
     branch: null
     repository: null
 global:
-  application_name: udagram-backend
+  application_name: Udacity-project4-fullstack
   branch: null
   default_ec2_keyname: null
   default_platform: Node.js 14 running on 64bit Amazon Linux 2

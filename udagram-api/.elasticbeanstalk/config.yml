@@ -1,12 +1,12 @@
 branch-defaults:
   master:
-    environment: Uda-project4-frontend-env
+    environment: Udaproject4frontend-env
 environment-defaults:
-  Uda-project4-frontend-env:
+  Udaproject4frontend-env:
     branch: null
     repository: null
 global:
-  application_name: Uda-project4-frontend
+  application_name: Udaproject4frontend
   default_ec2_keyname: null
   default_platform: Node.js 14 running on 64bit Amazon Linux 2/5.4.8
   default_region: us-east-1

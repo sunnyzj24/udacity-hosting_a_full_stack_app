@@ -1,1 +1,1 @@
-eb deploy Udaproject4frontend-env
+eb deploy udagram-backend-env

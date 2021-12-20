@@ -1,1 +1,1 @@
-eb deploy Udacity-project4-fullstack
+eb deploy Udacityproject4fullstack-env

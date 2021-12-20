@@ -1,8 +1,8 @@
 branch-defaults:
   default:
-    environment: Udacity-project4-fullstack-env
+    environment: Udacityproject4fullstack-env
 environment-defaults:
-  Udacity-project4-fullstack-env:
+  Udacityproject4fullstack-env:
     branch: null
     repository: null
 global:

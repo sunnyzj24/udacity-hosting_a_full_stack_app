@@ -31,7 +31,7 @@ jobs:
       - run:
         name: Backend Test
         command: npm run backend:test
-      - run"
+      - run:
         name: Frontend e2e Test
         command: npm run frontend:e2e
   deploy:

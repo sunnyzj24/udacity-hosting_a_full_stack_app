@@ -1,23 +1,20 @@
 branch-defaults:
   default:
-    environment: Udaproject4frontend-env
-  master:
-    environment: Udaproject4frontend-env
-environment-defaults:
-  Udaproject4frontend-env:
-    branch: null
-    repository: null
+    environment: udagram-backend-env
+    group_suffix: null
 global:
-  application_name: Udaproject4frontend
+  application_name: udagram-backend
+  branch: null
   default_ec2_keyname: null
-  default_platform: Node.js 14 running on 64bit Amazon Linux 2/5.4.8
+  default_platform: Node.js 14 running on 64bit Amazon Linux 2
   default_region: us-east-1
   include_git_submodules: true
   instance_profile: null
   platform_name: null
   platform_version: null
-  profile: null
+  profile: eb-cli
+  repository: null
   sc: null
   workspace_type: Application
-delopy:
-  artifact: www/Archive.zip
+deploy:
+artifact: www/Archive.zip

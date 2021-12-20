@@ -17,7 +17,7 @@ global:
   platform_name: null
   platform_version: null
   profile: null
-  sc: git
+  sc: null
   workspace_type: Application
 delopy:
   artifact: www/Archive.zip

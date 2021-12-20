@@ -1,1 +1,1 @@
-eb deploy uda-project4api-zj
+eb deploy Udaproject4frontedn-env

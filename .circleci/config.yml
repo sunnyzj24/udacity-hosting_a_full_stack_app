@@ -38,9 +38,6 @@ jobs:
             - run:
                 name: Backend Test
                 command: npm run backend:test
-            - run:
-                name: Frontend e2e Test
-                command: npm run frontend:e2e
     deploy:
         description: |
             Deploy the latest API and Frontend build to AWS S3 and Elastic Beanstalk.

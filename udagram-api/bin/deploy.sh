@@ -1,1 +1,1 @@
-eb deploy uda-project4-backend
+eb deploy uda-project4api-zj

@@ -41,7 +41,6 @@ jobs:
             - image: "cimg/base:stable"
         steps:
             - checkout
-            - setup
             - run:
                 name: Backend Deploy
                 command: npm run backend:deploy

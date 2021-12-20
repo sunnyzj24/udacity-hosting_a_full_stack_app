@@ -1,4 +1,6 @@
 branch-defaults:
+  default:
+    envrionment: Udaproject4frontend-env
   master:
     environment: Udaproject4frontend-env
 environment-defaults:

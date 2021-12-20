@@ -1,1 +1,1 @@
-eb deploy Udaproject4frontedn-env
+eb deploy Uda-project4-frontend-env

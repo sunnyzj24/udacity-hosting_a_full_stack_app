@@ -2,7 +2,7 @@ branch-defaults:
   master:
     environment: Uda-project4-frontend-env
 environment-defaults:
-  Udaproject4frontedn-env:
+  Uda-project4-frontend-env:
     branch: null
     repository: null
 global:

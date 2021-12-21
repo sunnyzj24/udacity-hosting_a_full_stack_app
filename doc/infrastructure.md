@@ -6,7 +6,8 @@ This application is hosted on AWS Cloud, involving 3 services:
  - S3 Bucket: frontend server and files storage
  http://uda-project4-zj.s3-website-us-east-1.amazonaws.com/
  -  ELastic Beanstalk: API server
- Udacityproject4fullstack-env.eba-mu39sfxp.us-east-1.elasticbeanstalk.com
+ http://udacityproject4fullstack-env.eba-mu39sfxp.us-east-1.elasticbeanstalk.com/api/v0
+
 
 ### Appllication Architectrure
 ![Image](./images/HostArch.drawio.png)

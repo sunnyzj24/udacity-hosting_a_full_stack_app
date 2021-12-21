@@ -50,5 +50,6 @@ workflows:
         jobs:
             - build:
                 filters:
-                    only:
-                        - main
+                    branches:
+                        only:
+                            - main

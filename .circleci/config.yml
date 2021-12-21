@@ -48,4 +48,7 @@ jobs:
 workflows:
     workflow:
         jobs:
-            - build
+            - build:
+                filters:
+                    only:
+                        - main

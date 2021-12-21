@@ -1,1 +1,2 @@
 eb deploy Udacityproject4fullstack-env
+eb setenv default_region=$AWS_DEFAULT_REGION

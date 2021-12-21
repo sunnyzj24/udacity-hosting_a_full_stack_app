@@ -8,5 +8,5 @@ This application is hosted on AWS Cloud, involving 3 services:
 
 S3 endpoint: http://uda-project4-zj.s3-website-us-east-1.amazonaws.com/home
 
-![Image] (./images/aws_s3.PNG)
+![Image](./images/aws_s3.PNG)
 
